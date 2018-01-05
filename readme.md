@@ -1,4 +1,4 @@
-#Lancer le projet :
+# Lancer le projet :
 
 On a donc un simple serveur node.js qui sert un fichier index.html à la racine du site avec ses fichiers statiques.
 Pour lancer le serveur node.js tu dois: 
@@ -8,7 +8,7 @@ Pour lancer le serveur node.js tu dois:
 - Lancer le serveur avec `npm start`
 - Ouvrir un navigateur web à l'url `http://localhost:3000`
 
-#Explication :
+# Explication :
 
 J'ai trouvé une calculette très simple faite en javascript vanilla. Ca peut te donner une idée déjà à quel point c'etait relou d'ajouter de l'interactivité à une page web avant.
 
