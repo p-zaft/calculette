@@ -1,0 +1,14 @@
+{
+  "name": "calculette",
+  "version": "1.0.0",
+  "description": "calculette",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Radhamantes",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
